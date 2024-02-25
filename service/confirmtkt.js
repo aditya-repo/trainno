@@ -1,11 +1,10 @@
-const started = Date.now()
-
 const puppeteer = require('puppeteer');
 
-const fetchData = async () => {
+const fetchPnr = async (pnr)=>{
+    
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  await page.goto('https://www.confirmtkt.com/pnr-status/6631845928');
+  await page.goto(`https://www.confirmtkt.com/pnr-status/${pnr}`);
 
   // Wait for the JavaScript to execute
   await page.waitForTimeout(1000); // Adjust the timeout as needed
@@ -39,6 +38,7 @@ const fetchData = async () => {
   }, scriptCode);
 
   // console.log('Data variable value:\n', dataVariableValue);
+  let userdata;
 
 try {
   const jsonObject = JSON.parse(dataVariableValue);
@@ -56,15 +56,21 @@ try {
     }
   });
 
-  console.log('PNR Data', filteredValues);
+//   console.log('PNR Data', filteredValues);
+    await browser.close();
+  return filteredValues;
 } catch (error) {
-  console.error('Error parsing JSON:', error.message);
+    await browser.close();
+  return error.message;
 }
-  
-  await browser.close();
 
-const endDate = Date.now()
-console.log('Response Time : ',(endDate - started)/1000);
+console.log();
+  
+//   await browser.close();
+
+// const endDate = Date.now()
+// console.log('Response Time : ',(endDate - started)/1000)
+
 };
 
-fetchData();
+module.exports = {fetchPnr}
