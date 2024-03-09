@@ -1,0 +1,31 @@
+{
+  "TrainName": "LJN BDTS EXP",
+  "TrainNo": 19022,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "LJN",
+  "DestinationCode": "BDTS",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.3,
+  "FoodRating": 2.8,
+  "PunctualityRating": 3.6,
+  "CleanlinessRating": 3.5,
+  "RatingCount": 143,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:06:17.7690399+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

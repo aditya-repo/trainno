@@ -1,0 +1,32 @@
+{
+  "TrainName": "SGNR KOTA SF SPL",
+  "TrainNo": 2982,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "SGNR",
+  "DestinationCode": "KOTA",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 4,
+  "FoodRating": 4.2,
+  "PunctualityRating": 4.1,
+  "CleanlinessRating": 4.2,
+  "RatingCount": 84,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:16:49.2252745+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

@@ -1,0 +1,31 @@
+{
+  "TrainName": "SRC PUNE SPL",
+  "TrainNo": 2817,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "SRC",
+  "DestinationCode": "PUNE",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.9,
+  "FoodRating": 3.4,
+  "PunctualityRating": 4.2,
+  "CleanlinessRating": 4.1,
+  "RatingCount": 57,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:03:07.7056035+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

@@ -1,0 +1,33 @@
+{
+  "TrainName": "KURJ KKDE SPL",
+  "TrainNo": 1841,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "1A",
+    "2A",
+    "3A",
+    "SL",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "KURJ",
+  "DestinationCode": "KKDE",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.9,
+  "FoodRating": 3.6,
+  "PunctualityRating": 4.1,
+  "CleanlinessRating": 4,
+  "RatingCount": 211,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T18:30:46.6198255+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

@@ -1,0 +1,29 @@
+{
+  "TrainName": "BSB INTERCITY EX",
+  "TrainNo": 13346,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "CC"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "SGRL",
+  "DestinationCode": "BSB",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 0,
+  "FoodRating": 0,
+  "PunctualityRating": 0,
+  "CleanlinessRating": 0,
+  "RatingCount": 0,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:20:42.9612772+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

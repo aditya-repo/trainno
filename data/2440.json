@@ -1,0 +1,32 @@
+{
+  "TrainName": "SGNR NED SF SPL",
+  "TrainNo": 2440,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "SGNR",
+  "DestinationCode": "NED",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.7,
+  "FoodRating": 3.3,
+  "PunctualityRating": 3.9,
+  "CleanlinessRating": 3.9,
+  "RatingCount": 24,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:17:37.3921688+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

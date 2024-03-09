@@ -1,0 +1,30 @@
+{
+  "TrainName": "GARIB RATH SPL",
+  "TrainNo": 6163,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "3A",
+    "CC"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "LTT",
+  "DestinationCode": "KCVL",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.7,
+  "FoodRating": 3,
+  "PunctualityRating": 4.2,
+  "CleanlinessRating": 4,
+  "RatingCount": 38,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:16:38.4046523+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

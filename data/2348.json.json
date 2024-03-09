@@ -1,0 +1,30 @@
+{
+  "TrainName": "RPH HWH SPL",
+  "TrainNo": 2348,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "CC",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "RPH",
+  "DestinationCode": "HWH",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 4.3,
+  "FoodRating": 3.8,
+  "PunctualityRating": 4.2,
+  "CleanlinessRating": 4,
+  "RatingCount": 51,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T18:33:26.62278+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

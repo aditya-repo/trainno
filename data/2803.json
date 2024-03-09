@@ -1,0 +1,33 @@
+{
+  "TrainName": "RNC HWH SPL",
+  "TrainNo": 2803,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "1A",
+    "2A",
+    "3A",
+    "SL",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "RNC",
+  "DestinationCode": "HWH",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 4,
+  "FoodRating": 3.3,
+  "PunctualityRating": 4.3,
+  "CleanlinessRating": 4.3,
+  "RatingCount": 89,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:17:50.4478915+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

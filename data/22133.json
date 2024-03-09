@@ -1,0 +1,32 @@
+{
+  "TrainName": "SUR YPR SUP EXP",
+  "TrainNo": 22133,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "1A",
+    "2A",
+    "3A",
+    "SL"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "SUR",
+  "DestinationCode": "YPR",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.5,
+  "FoodRating": 3,
+  "PunctualityRating": 3.7,
+  "CleanlinessRating": 3.7,
+  "RatingCount": 222,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T18:33:19.4569034+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

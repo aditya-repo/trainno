@@ -1,0 +1,31 @@
+{
+  "TrainName": "Pune - Indore Express (via Panvel) ",
+  "TrainNo": 19311,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "PUNE",
+  "DestinationCode": "INDB",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.5,
+  "FoodRating": 3,
+  "PunctualityRating": 3.9,
+  "CleanlinessRating": 3.7,
+  "RatingCount": 217,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T18:34:16.4374803+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

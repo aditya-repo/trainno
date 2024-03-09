@@ -1,0 +1,32 @@
+{
+  "TrainName": "GAYA FESTVL SPL",
+  "TrainNo": 2398,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "NDLS",
+  "DestinationCode": "GAYA",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.9,
+  "FoodRating": 3.6,
+  "PunctualityRating": 4.1,
+  "CleanlinessRating": 4.1,
+  "RatingCount": 221,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:19:16.4325211+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

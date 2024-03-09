@@ -1,0 +1,31 @@
+{
+  "TrainName": "Bikaner - Haridwar Special ",
+  "TrainNo": 4735,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "BKN",
+  "DestinationCode": "HW",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.5,
+  "FoodRating": 2.7,
+  "PunctualityRating": 4,
+  "CleanlinessRating": 3.7,
+  "RatingCount": 9,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:07:11.8327604+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

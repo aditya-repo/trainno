@@ -1,0 +1,29 @@
+{
+  "TrainName": "HWH SC SPL",
+  "TrainNo": 2703,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "HWH",
+  "DestinationCode": "SC",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.9,
+  "FoodRating": 3.5,
+  "PunctualityRating": 4.2,
+  "CleanlinessRating": 3.9,
+  "RatingCount": 779,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T17:50:18.4003277+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

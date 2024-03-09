@@ -1,0 +1,31 @@
+{
+  "TrainName": "AF INTERCITY SPL",
+  "TrainNo": 4196,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "3A",
+    "CC",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "AII",
+  "DestinationCode": "AF",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 4.1,
+  "FoodRating": 3.9,
+  "PunctualityRating": 4.2,
+  "CleanlinessRating": 4.2,
+  "RatingCount": 60,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:20:04.9115876+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

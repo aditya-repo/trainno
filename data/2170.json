@@ -1,0 +1,32 @@
+{
+  "TrainName": "NGP CSMT SF SPL",
+  "TrainNo": 2170,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "NGP",
+  "DestinationCode": "CSMT",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 4,
+  "FoodRating": 3.5,
+  "PunctualityRating": 4.2,
+  "CleanlinessRating": 4.2,
+  "RatingCount": 270,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:19:42.04864+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

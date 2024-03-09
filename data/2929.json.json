@@ -1,0 +1,32 @@
+{
+  "TrainName": "FESTIVAL SF SPL",
+  "TrainNo": 2929,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "BDTS",
+  "DestinationCode": "JSM",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 4,
+  "FoodRating": 3.5,
+  "PunctualityRating": 4.2,
+  "CleanlinessRating": 4.2,
+  "RatingCount": 64,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T18:23:46.4593037+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

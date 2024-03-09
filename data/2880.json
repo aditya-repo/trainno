@@ -1,0 +1,32 @@
+{
+  "TrainName": "BBS LTT SP",
+  "TrainNo": 2880,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "BBS",
+  "DestinationCode": "LTT",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 4,
+  "FoodRating": 3.6,
+  "PunctualityRating": 4.3,
+  "CleanlinessRating": 4.2,
+  "RatingCount": 118,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T17:04:05.0544833+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

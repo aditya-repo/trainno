@@ -1,0 +1,32 @@
+{
+  "TrainName": "PURI KYQ SPL",
+  "TrainNo": 5643,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "PURI",
+  "DestinationCode": "KYQ",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.2,
+  "FoodRating": 2.8,
+  "PunctualityRating": 3.5,
+  "CleanlinessRating": 3.3,
+  "RatingCount": 18,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:04:22.4540246+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

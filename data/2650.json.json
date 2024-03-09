@@ -1,0 +1,33 @@
+{
+  "TrainName": "ED MAS SPL",
+  "TrainNo": 2650,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "1A",
+    "2A",
+    "3A",
+    "SL",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "ED",
+  "DestinationCode": "MAS",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 4.2,
+  "FoodRating": 3.5,
+  "PunctualityRating": 4.2,
+  "CleanlinessRating": 4,
+  "RatingCount": 194,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T18:29:15.8260027+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

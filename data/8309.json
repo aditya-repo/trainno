@@ -1,0 +1,32 @@
+{
+  "TrainName": "SBP  JAT SPL",
+  "TrainNo": 8309,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "2A",
+    "3A",
+    "SL",
+    "2S"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "SBP",
+  "DestinationCode": "JAT",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.6,
+  "FoodRating": 3.3,
+  "PunctualityRating": 3.8,
+  "CleanlinessRating": 3.8,
+  "RatingCount": 168,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:17:11.2250697+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}

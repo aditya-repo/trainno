@@ -1,0 +1,31 @@
+{
+  "TrainName": "NGP ASR AC SPL",
+  "TrainNo": 2025,
+  "TrainNumberString": null,
+  "CoachPosition": null,
+  "Classes": [
+    "1A",
+    "2A",
+    "3A"
+  ],
+  "Schedule": null,
+  "Source": null,
+  "Destination": null,
+  "SourceCode": "NGP",
+  "DestinationCode": "ASR",
+  "DaysOfRun": null,
+  "FooterText": null,
+  "TrainType": null,
+  "IsUnreserved": false,
+  "Rating": 3.7,
+  "FoodRating": 3.1,
+  "PunctualityRating": 4.2,
+  "CleanlinessRating": 3.8,
+  "RatingCount": 38,
+  "TotalDuration": null,
+  "FromCity": null,
+  "ToCity": null,
+  "CacheTime": "2024-03-09T19:14:39.2617553+05:30",
+  "HasPantry": false,
+  "ErrorMsg": "Train does not run at given date"
+}
